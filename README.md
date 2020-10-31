@@ -5,9 +5,9 @@
 02. Let's Make Some Graphs, Already!
 03. The Heart of the Matter: Selecting and Binding
 04. Events, Interactivity, and Animation
-05. x
-06. x
-07. xx
+05. Generators, Components, Layouts: Drawing Curves and Shapes
+06. Files, Fetches, Formats: Getting Data In and Out
+07. Values to Visuals: Interpolations, Scales, and Axes
 08. xx
 09. xx
 10. xx
